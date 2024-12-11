@@ -1,0 +1,90 @@
+good morning co-pilot, I would love for you to make me a 3 page website. please use html 5 with attached css. please do not add any extraneous, classes or ids. please create media quearies so my site can be usable on any size screen. my file hiarchy will have all the html documents in a root folder along side an assets folder which will hold a images folder and a css folder. please attach the normalize style sheet.
+
+Background (image/color)
+
+I want you to set the back ground to this image "background-Image.png"
+
+I also want you to make the back ground cover the entire screen.
+ 
+navigation:
+
+I want my navigation bar to be 40px tall and the links to be spread centered on the nav bar with 10px spacing, I want there to be two pages to navigate.
+
+Font: verdana
+
+Colors: dark blue for the background color and white for the text
+
+Alignment: centered
+
+Width: 80%
+
+Text: Home | Whales | Contact
+
+Main content
+
+I want the main content to have to rows of text with the images provided staggered verticaly
+
+Font: verdana
+
+Point size: 16
+
+Colors: back ground color light blue with dark blue text, I also want the background opacity to 30%
+
+text alignment left
+
+Height: 550px add a scroll bar if there is more text than will fit in this height.
+
+Width: 80% of the window
+
+Text/images: for index.html please write 4 paragraphs that introduces the topic of blue whales in a fun way. with a 
+
+make this text the headline for index.html
+"Biggest whales in the oceans today"
+
+for my second page "whales.html" 
+
+headline: All about blue whales
+
+Blue whales, the largest animals to have ever existed on Earth, are awe-inspiring giants of the ocean. These magnificent marine mammals can reach lengths of up to 100 feet and weigh as much as 200 tons. Despite their immense size, blue whales primarily feed on tiny shrimp-like creatures called krill. During feeding season, a blue whale can consume up to 4 tons of krill each day. Their sheer size and their graceful movements through the water make them one of the most extraordinary sights in the natural world.
+
+One of the most remarkable aspects of blue whales is their vocalizations. These whales are known to produce low-frequency sounds that can travel great distances underwater, making their calls one of the loudest and farthest-reaching sounds produced by any animal. These sounds play a crucial role in communication, navigation, and mating. Scientists believe that blue whales use these vocalizations to stay in touch with each other across hundreds of miles of ocean, demonstrating a complex and sophisticated form of communication.
+
+Blue whales have a global distribution, found in all the world's oceans except the Arctic. They migrate between feeding grounds in polar regions and breeding grounds in more temperate or tropical waters. These migration patterns are driven by the availability of krill, with blue whales traveling thousands of miles each year to take advantage of seasonal blooms of their preferred food source. This migratory behavior is a testament to the adaptability and endurance of these incredible creatures.
+
+Despite their colossal size, blue whales face numerous threats from human activities. In the past, commercial whaling decimated blue whale populations, bringing them to the brink of extinction. Today, while whaling is no longer a significant threat, blue whales still face dangers such as ship strikes, entanglement in fishing gear, and the impacts of climate change on their food supply. Conservation efforts are essential to protect these gentle giants and ensure their survival for future generations.
+
+The blue whale's life cycle and behaviors continue to fascinate scientists and nature enthusiasts alike. Their long lifespans, which can exceed 80 years, provide opportunities for researchers to study their growth, reproduction, and social structures over extended periods. Understanding the biology and ecology of blue whales not only enriches our knowledge of marine life but also underscores the importance of protecting our oceans. These magnificent creatures remind us of the vastness and interconnectedness of life on Earth, inspiring awe and a sense of responsibility toward preserving our natural world.
+
+In conclusion, blue whales are extraordinary creatures that captivate our imagination with their immense size, fascinating behaviors, and remarkable adaptations. As the largest animals on Earth, they play a vital role in marine ecosystems and demonstrate the incredible diversity of life in our oceans. Despite facing numerous threats from human activities, conservation efforts offer hope for their future survival. By protecting blue whales and their habitats, we contribute to preserving the natural wonders of our planet for generations to come.
+
+the images below are the images i want you to add in the page.
+
+bluewhale1.png
+
+bluewhale2.png
+
+bluewhale3.png
+
+for my third page "Contact" I would like a java script form. please stack these three form feilds. the width of the form should be 4" and please embed the java script rather than attaching it, also add a submit button at the bottom and have the submissions go to johnharden35426@gmail.com.
+
+name
+subject
+messege
+
+Footer
+
+I want the footer to be black with white text
+
+Font: verdana
+
+Point size: 16
+
+Colors: black back ground with white text
+
+Alignment: center
+
+Height: 25px
+
+Width: 80%
+
+text: SORCE: CO-PILOT
